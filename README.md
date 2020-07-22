@@ -14,3 +14,14 @@ Esta es una imagen de buildeo de dockerfiles con el "docker-credential-gcr" para
   }
 }
 ```
+
+---
+
+### TODO
+
+* Readme como corresponde
+* Documentación
+
+---
+
+<p align="center"><img src="http://www.catb.org/hacker-emblem/glider.png" alt="hacker emblem"></p>
